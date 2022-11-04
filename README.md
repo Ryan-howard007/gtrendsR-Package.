@@ -1,4 +1,4 @@
-<h1> Demo-0 </h1>
+<h1> gtrendsR Package in R </h1>
 Demo on Google Trends tracking.
 
 Purpose of **gtrendsR** package:
